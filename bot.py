@@ -52,5 +52,5 @@ def run_discord_bot():
 
     # Remember to run your bot with your personal TOKEN
     client.run(
-        "MTA5MzQ1NDc3NjU2MzQyMTI0NQ.GMkFq8.h_MEiKwXLJMeFddgIpEafK7ntipWXYd6wN1ykE"
+        "TOKEN"
     )
